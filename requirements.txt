@@ -1,0 +1,2 @@
+# Ordinary HTTP downloads. Optional mode dependencies: references/setup.md.
+requests>=2.31.0

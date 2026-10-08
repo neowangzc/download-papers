@@ -1,0 +1,4 @@
+interface:
+  display_name: "论文下载"
+  short_description: "下载论文 PDF，按需提取原始全文 Markdown"
+  default_prompt: "使用 $download-papers 下载这些论文到指定文件夹；如需全文 Markdown，单独提取并报告两份清单中的成功和待处理项。"
